@@ -1,5 +1,50 @@
-.menu {
- 
+.logo {
+    padding: 100px;
+    position: absolute;
+}
+
+nav {
+    padding: 120px;
+    position: absolute;
+    margin-right: 10px;
+}
+.menu__item {
+    display: inline;
+    color: white;
+    text-align: right;
+
+}
+
+h1 {
+    box-sizing: border-box;
+	border: 1px solid #000000;
+    width: 370px;
+    height: 160px;
+    padding: 2%;
+
+}
+
+
+
+body {
+    display: flex;
+}
+.session2 {
+    box-sizing: border-box;
+	border: 1px solid #000000;
+    width: 550px;
+    height: 220px;
+
+}
+.session2__title {
+    font-size: 30px;
+    margin-left: 10%; 
+    margin-right: 10%;
+}
+.session2__description {
+    font-size: 16px;
+    margin-left: 10%; 
+    margin-right: 10%;
 }
 .img-groups {
     display: inline-block;
@@ -7,4 +52,21 @@
 .creations {
     font-weight: bold;
     font-size: 25px;
+}
+.banner {
+
+  
+}
+footer{
+    background-color: black;
+
+}  
+.social{
+
+   
+
+}
+.menu-footer {   
+    display: inline;
+    background-color: black;
 }
