@@ -1,0 +1,23 @@
+footer{
+    background-color: black;
+    padding: 20px;
+}  
+.logo-footer {
+    margin-left: 1%;
+}
+.social {
+    margin-left: 70%;
+    margin-top: 5%;
+
+}
+.menu-footer {   
+    margin: 1%;
+    color: white;
+    display: inline;
+}
+
+.copyright {
+    margin-left: 76%;
+    margin-top: 50px;
+    color: white;
+}
