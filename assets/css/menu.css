@@ -1,17 +1,19 @@
-.logo {
-    padding: 100px;
-    position: absolute;
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
-nav {
-    padding: 120px;
-    position: absolute;
-    margin-right: 10px;
+.header__ {
+
+
+}
+
+header__ {
+
 }
 .menu__item {
     display: inline;
     color: white;
-    text-align: right;
 
 }
 
@@ -22,12 +24,11 @@ h1 {
     height: 160px;
     padding: 2%;
 
+
 }
-
-
-
-body {
-    display: flex;
+.banner {
+    position: relative;
+	margin: 0 auto;
 }
 .session2 {
     box-sizing: border-box;
@@ -52,21 +53,5 @@ body {
 .creations {
     font-weight: bold;
     font-size: 25px;
-}
-.banner {
 
-  
-}
-footer{
-    background-color: black;
-
-}  
-.social{
-
-   
-
-}
-.menu-footer {   
-    display: inline;
-    background-color: black;
 }
