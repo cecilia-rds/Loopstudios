@@ -20,16 +20,18 @@
     position: absolute;
 }
 h1 {
-   padding: 30px;
+   padding: 3.5%;
+   font-weight: normal
 }
 .title {
     position: absolute;
     box-sizing: border-box;
 	border: 1.5px solid #f3f3f3;
-    width: 390px;
-    height: 170px;
+    width: 31%;
+    height: 30%;
     margin-top: 5%;
-    top: 145px;
+    top: 15%;
     margin-left: 10%;
     color: #f3f3f3;
+    padding: auto;
 }
