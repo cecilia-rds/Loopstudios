@@ -3,7 +3,7 @@
 # Frontend Mentor - Loopstudios landing page
 
 
-> Project status: :warning: (developing)
+> Project status: :heavy_check_mark: (Finalised)
 
 
 ## Project description
