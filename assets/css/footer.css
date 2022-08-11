@@ -4,22 +4,25 @@ footer{
 
 }  
 .logo-footer {
-    margin-left: 4%;
+    margin-left: 9%;
 }
 .social {
-    margin-left: 70%;
+    margin-left: 58%;
     margin-top: 5%;
 
 }
 .menu-footer {   
-    margin: 1%;
+    margin: 5%;
     color: white;
-    display: inline;
-
+    margin-top: 0%;
 }
-
+.menu-item {   
+    margin: 1%;
+    display: inline;
+   
+}
 .copyright {
-    margin-left: 76%;
+    margin-left: 67%;
     margin-top: 50px;
     color: white;
 }
